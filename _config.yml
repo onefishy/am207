@@ -1,6 +1,6 @@
-title: Weiwei Pan
+title: AM207 Advanced Scientific Computing: Stochastic Methods for Data Analysis, Inference and Optimization
 logo: /img/wp.png
-description: Research Associate, Harvard University
+description: The aim of this course is to help students develops skills for computational re- search with focus on stochastic approaches, emphasizing implementation and examples. Stochastic methods make it feasible to tackle very diverse problems when the solution space is too large to explore systematically, or when micro- scopic rules are known, but not the macroscopic behavior of a complex system. Methods are illustrated with examples from a wide variety of fields, like biology, finance, and physics. We tackle Bayesian methods of data analysis as well as various stochastic optimization methods. 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
