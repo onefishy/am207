@@ -7,8 +7,8 @@ Students who make meaningful novel or insightful contributions in their course p
 Examples of publications from AM207 Fall 2019:
 
 1. [BaCOUn: Bayesian Classifers with Out-of-Distribution Uncertainty](https://arxiv.org/pdf/2007.06096.pdf)
-2.  [Learned Uncertainty-Aware (LUNA) Bases for Bayesian Regression using Multi-Headed Auxiliary Networks](https://arxiv.org/pdf/2006.11695.pdf)
-3.[CRUDS: Counterfactual Recourse Using Disentangled Subspaces](http://whi2020.online/static/pdfs/paper_74.pdf)
+2. [Learned Uncertainty-Aware (LUNA) Bases for Bayesian Regression using Multi-Headed Auxiliary Networks](https://arxiv.org/pdf/2006.11695.pdf)
+3. [CRUDS: Counterfactual Recourse Using Disentangled Subspaces](http://whi2020.online/static/pdfs/paper_74.pdf)
 
 ### Grading
 Your grade is based on:
