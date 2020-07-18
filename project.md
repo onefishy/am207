@@ -24,27 +24,27 @@ Your grade is based on:
 
 **Mentoring:** You will have a designated TF for your project and you are welcomed to schedule meetings between your team and the instructor.
 
-**Project deliverable: **A well-formatted Jupyter notebook (optimized for readability) containing:
+**Project deliverable:** A well-formatted Jupyter notebook (optimized for readability) containing:
 
-    1.   **Clear exposition of : **
-*   _**Problem statement**_ - what is the problem the paper aims to solve?
-*   _**Context/scope**_ - why is this problem important or interesting?
-*   _**Existing work**_ - what has been done in literature?
-*   _**Contribution**_ - what is gap in literature that the paper is trying to fill? What is the unique contribution
-*   _**Technical content (high level)**_ - what are the high level ideas behind their technical contribution
-*   _**Technical content (details)**_ - **_highlight (not copy and paste entire sections)_ **the relevant details that are important to focus on (e.g. if there's a model, define it; if there is a theorem, state it and explain why it's important, etc).
-*   _**Experiments**_ - which types of experiments were performed? What claims were these experiments trying to prove? Did the results prove the claims?
-*   _**Evaluation (your opinion)**_ - do you think the work is technically sound? Do you think the proposed model/inference method is practical to use on real data and tasks? Do you think the experimental section was strong (there are sufficient evidence to support the claims and eliminate confounding factors)?
-*   _**Future work (for those interested in continuing research in a related field)**_ - do you think you can suggest a concrete change or modification that would improve the existing solution(s) to the problem of interest? Try to implement some of these changes/modifications.
-*   _**Broader Impact**_ - how does this work potentially impact (both positively and negatively) the broader machine learning community and society at large when this technology is deployed? In the applications of this technology, who are the potentially human stakeholders? What are the potential risks to the interest of these stakeholders in the failure modes of this technology? Is there potential to exploit this technology for malicious purposes?
+1.   **Clear exposition of :**
+  *   _**Problem statement**_ - what is the problem the paper aims to solve?
+  *   _**Context/scope**_ - why is this problem important or interesting?
+  *   _**Existing work**_ - what has been done in literature?
+  *   _**Contribution**_ - what is gap in literature that the paper is trying to fill? What is the unique contribution
+  *   _**Technical content (high level)**_ - what are the high level ideas behind their technical contribution
+  *   _**Technical content (details)**_ - **_highlight (not copy and paste entire sections)_ **the relevant details that are important to focus on (e.g. if there's a model, define it; if there is a theorem, state it and explain why it's important, etc).
+  *   _**Experiments**_ - which types of experiments were performed? What claims were these experiments trying to prove? Did the results prove the claims?
+  *   _**Evaluation (your opinion)**_ - do you think the work is technically sound? Do you think the proposed model/inference method is practical to use on real data and tasks? Do you think the experimental section was strong (there are sufficient evidence to support the claims and eliminate confounding factors)?
+  *   _**Future work (for those interested in continuing research in a related field)**_ - do you think you can suggest a concrete change or modification that would improve the existing solution(s) to the problem of interest? Try to implement some of these changes/modifications.
+  *   _**Broader Impact**_ - how does this work potentially impact (both positively and negatively) the broader machine learning community and society at large when this technology is deployed? In the applications of this technology, who are the potentially human stakeholders? What are the potential risks to the interest of these stakeholders in the failure modes of this technology? Is there potential to exploit this technology for malicious purposes?
 
 Your exposition should focus on summarization and highlighting (aiming for an audience of peers who have taken AM207). There is no point rewording the paper itself. Reorganize and explain the ideas in a way that makes sense to you, that features the most salient/important aspects of the paper, that demonstrates understanding and synthesis.
 
 2.  **Code:**
-*   At least one clear working pedagogical example demonstrating the problem the paper is claiming to solve. 
-*   At lease a bare bones implementation of the model/algorithm/solution (in some cases, you may be able to make assumptions  to simplify the model/algorithm/solution with the approval of your instructor)
-*   Demonstration on at least one instance that your implementation solves the problem.
-*   Demonstration on at least one instance the failure mode of the model/algorithm/solution, with an explanation for why failure occurred (is the dataset too large? Did you choose a bad hyper parameter?). The point of this is to point out edge cases to the user.
+  *   At least one clear working pedagogical example demonstrating the problem the paper is claiming to solve. 
+  *   At lease a bare bones implementation of the model/algorithm/solution (in some cases, you may be able to make assumptions  to simplify the model/algorithm/solution with the approval of your instructor)
+  *   Demonstration on at least one instance that your implementation solves the problem.
+  *   Demonstration on at least one instance the failure mode of the model/algorithm/solution, with an explanation for why failure occurred (is the dataset too large? Did you choose a bad hyper parameter?). The point of this is to point out edge cases to the user.
 
 You are welcome to study any code that is provided with the paper, you are however not allowed to copy code. Your implementation must be your own. If a public repo is available for your paper, you are encouraged to first try reproducing some results using the authors code -- this will give you an idea of how their algorithm/model works.
 
