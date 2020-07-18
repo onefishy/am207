@@ -12,4 +12,5 @@ The aim of this course is to help students develops skills for computational res
 
 - [Course Syllabus](./syllabus.html)
 - [Course Schedule](./schedule.html)
+- [Course Project Description](./project.html)
 
