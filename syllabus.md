@@ -6,7 +6,7 @@ The aim of this course is to help students develops skills for computational res
 ### Learning Outcomes
 
 After successful completion of this course, you will be able to:
-1. Build basic Bayesian and non-Bayesian statistical models for continuous, ordinal, categorical and sequential data
+1. Build basic Bayesian and non-Bayesian statistical models for continuous, ordinal and categorical data
 2. Learn point estimates of model parameters using stochastic optimization methods
 3. Perform inference on models using sampling methods as well as variational inference approaches
 4. Evaluate the effectiveness of your inference methods
