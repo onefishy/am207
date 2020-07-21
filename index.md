@@ -2,7 +2,7 @@
 
 **Course Instructor**
 
-- Dr. Weiwei Pan (Harvard University) 
+- [Dr. Weiwei Pan](https://onefishy.github.io) (Harvard University) 
 
 **What is this Course?**
 
