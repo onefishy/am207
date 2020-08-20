@@ -4,50 +4,55 @@
 - *Lecture 1:* Course Overview
 
 #### Week 2:
-- *Lecture 2:* Maximum Likelihood Estimators & Decision Theory
+- *Lecture 2:* Maximum Likelihood Estimators & Convex Optimization
 - *Lecture 3:* Bayesian Models
 
 #### Week 3:
-- *Lecture 4:* Sampling for Posterior Simulation
-- *Lecture 5:* Sampling: Importance and Gibbs
+- *Lecture 4:* Bayesian versus Frequentist Approaches
+- *Lecture 5:* Introduction to Sampling
 
 #### Week 4:
-- *Lecture 6:* Sampling: Markov Chain Monte Carlo
-- *Lecture 7:* Latent Variable Models & Expectation Maximization
+- *Lecture 6:* Monte Carlo Simulation
+- *Lecture 7:* MCMC Sampling
 
 #### Week 5:
-- *Lecture 8:* Variational Inference: Coordinate Ascent VI
-- *Lecture 9:* Hierarchical Models & Empirical Bayes
+- *Lecture 8:* MCMC Sampling: Diagnostics
+- *Lecture 9:* Latent Variable Models & EM
 
 #### Week 6:
-- *Lecture 8:* Logistic Regression & Gradient Descent
-- *Lecture 9:* Generalized Linear Models & Non-convex Optimization
+- *Lecture 8:* Latent Variable Models & VI
+- *Lecture 9:* Hierarchical Models, Empirical Bayes & Model Selection
 
 #### Week 7:
-- *Lecture 10:* Sampling: Hamiltonian Monte Carlo
+- *Lecture 10:* Logistic Regression & Gradient Descent
+- *Lecture 11:* Stochastic Gradient Descent & Simulated Annealing
 
 #### Week 8:
-- *Lecture 11:* Sampling: Parallel Tempering
-- *Lecture 12:* Regression & Neural Networks
+- *Lecture 12:* Hamiltonian Monte Carlo
+- *Lecture 13:* Parallel Tempering
 
 #### Week 9:
-- *Lecture 13:* Bayesian Regression & Black-box Variational Inference
-- *Lecture 14:* Variational Inference: Bayes by Backprop
+- *Lecture 14:* Neural Networks
+- *Lecture 15:* Bayesian Neural Networks (BNNs) and VI
 
 #### Week 10:
-- *Lecture 15:* Automatic Differentiation Variational Inference
-- *Lecture 16:* Evaluating Variational Inference
+- *Lecture 16:* Automatic Differentiation Variational Inference
+- *Lecture 17:* Evaluating Variational Inference
 
 #### Week 11:
-- *Lecture 17:* Deep Generative Models: Variational Autoencoders
-- *Lecture 18:* Variants of Variational Autoencoders
+- *Lecture 18:* Variational Autoencoders (VAEs)
+- *Lecture 19:* VAEs: Implementation Details
 
 #### Week 12:
-- *Lecture 19:* Linear Stochastic Systems & Kalman Filtering
-- *Lecture 20:* Non-linear Stochastic Systems & Sequential Monte Carlo
+- *Lecture 20:* VAE Pathologies and IWAE
+- *Lecture 21:* Representation Learning & Applications
 
 #### Week 13:
-- *Lecture 21:* Hidden Markov Models: Inference
-- *Lecture 22:* Hidden Markov Models: Learning
+- *Lecture 22:* Gaussian Processes versus BNNs
+
+### Week 14:
+- *Lecture 23:* Uncertainty Decomposition & Applications
+- *Lecture 24:* What Uncertainties Do We Need in Deep Learning?
+
 
 
