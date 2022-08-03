@@ -8,8 +8,8 @@
 - [Lecture #9 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_9_notes.ipynb)
 
 ### Activities
-- [In-Class Exercise #8: Metropolis-Hastings and Gibbs Sampling](https://deepnote.com/project/AM207Fall202108-MH-and-Gibbs-_-uidW8qQXy-mQ6w0LJ7-w)
-- [In-Class Exercise #9: Expectation Maximization](https://deepnote.com/project/AM207Fall202109-expectation-maximization-l6HX_UP8RXCBD7K5DvSAvg)
+- [In-Class Exercise #8: Metropolis-Hastings and Gibbs Sampling](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202108-MH-and-Gibbs-ffeba275-6f2a-417c-be99-0eb0d0b27bfb)
+- [In-Class Exercise #9: Expectation Maximization](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202109-expectation-maximization-97a1d7fd-43fc-4570-810f-b2b90ef480be)
 - [Homework #4](https://github.com/onefishy/am207/blob/master/HW/AM207_HW4.ipynb)
 
 ### Reading
