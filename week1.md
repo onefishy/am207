@@ -1,12 +1,12 @@
 # Week 1
 
 ### Lecture
-- [Lecture #1 Notes](./Lectures/lecture_1_notes.ipynb)
-- [Lecture #1 Summary](./Lectures/lecture_1_summary_slides.ipynb)
+- [Lecture #1 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_1_notes.ipynb)
+- [Lecture #1 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_1_summary_slides.ipynb)
 
 ### Activities
 - [In-Class Exercise #1: Introduction to Linear Regression](https://deepnote.com/project/AM207Fall202101linearregression-aYM1a9NMQROUArhBIHjlNw/%2FIn-Class%20Exercises%2F01_linear_regression.ipynb)
-- [Homework #0](./HW/AM207_HW0.ipynb)
+- [Homework #0](https://github.com/onefishy/am207/blob/master/HW/AM207_HW0.ipynb)
 
 ### Reading
 **Preparatory Readings:**
