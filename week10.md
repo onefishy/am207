@@ -8,8 +8,8 @@
 - [Lecture #19 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_19_summary.ipynb)
 
 ### Activities
-- [In-Class Exercise #18: Automatic Differentiation](https://deepnote.com/project/AM207Fall202118-automatic-differentiation-AukLJiR4TVWmQiasOrFtlw/%2FIn-Class%20Exercises%2F18_automatic_differentiation.ipynb)
-- [In-Class Exercise #19: Evaluating and Comparing Approximate Inference](https://deepnote.com/project/AM207Fall202119-Evaluating-Approximate-Inference-qMdlYY0yRkqm62w8Jlr0NA/%2FIn-Class%20Exercises%2F19_Evaluating_Approximate_Inference.ipynb)
+- [In-Class Exercise #18: Automatic Differentiation](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202118-automatic-differentiation-02e90b26-2478-4d55-a642-26ac3ab16d97/%2FIn-Class%20Exercises%2F18_automatic_differentiation.ipynb)
+- [In-Class Exercise #19: Evaluating and Comparing Approximate Inference](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202119-Evaluating-Approximate-Inference-a8c76561-8d32-464a-a6eb-6c3c265af434/%2FIn-Class%20Exercises%2F19_Evaluating_Approximate_Inference.ipynb)
 
 ### Reading
 <p>Applications and Broader Impact:</p>
