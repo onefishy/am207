@@ -1,8 +1,8 @@
 # Week 11
 
 ### Lecture
-- [Lecture #20 Notes](./Lectures/lecture_20_notes.ipynb)
-- [Lecture #21 Notes](./Lectures/lecture_21_notes.ipynb)
+- [Lecture #20 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_20_notes.ipynb)
+- [Lecture #21 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_21_notes.ipynb)
 
 ### Activities
 - [In-Class Exercise #20: Understanding VAEs](https://deepnote.com/project/AM207Fall202120-Understandign-VAEs-U9otxtT6TTm4dX_6KoPSZw)
