@@ -2,9 +2,9 @@
 
 ### Lecture
 - [Lecture #4 Notes](./Lectures/lecture_4_notes.ipynb)
-- [Lecture #4 Summary](./Summary/lecture_4_summary.ipynb)
+- [Lecture #4 Summary](./Lectures/lecture_4_summary.ipynb)
 - [Lecture #5 Notes](./Lectures/lecture_5_notes.ipynb)
-- [Lecture #5 Summary](./Summary/lecture_5_summary.ipynb)
+- [Lecture #5 Summary](./Lectures/lecture_5_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #4: Bayesian versus Frequentist Inference](https://deepnote.com/project/AM207Fall202104bayesianversusfrequentist-Duplicate-Aq51m-eMRXuMUKX8igj4zQ)
