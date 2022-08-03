@@ -9,8 +9,8 @@
 - [Lecture #17 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_17_summary.ipynb)
 
 ### Activities
-- [In-Class Exercise #16: Understanding Neural Networks](https://deepnote.com/project/AM207Fall202116-neural-networks-fwrqD8L9QjKEd_yMCkXk0w)
-- [In-Class Exercise #17: Black-box Variational Inference](https://deepnote.com/project/AM207Fall202117-bbvi-aRlMVKWST1yRXmtDjgCZbw)
+- [In-Class Exercise #16: Understanding Neural Networks](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202116-neural-networks-7f0aea0f-c2fd-4232-8477-fc8c0a45e4d3)
+- [In-Class Exercise #17: Black-box Variational Inference](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202117-bbvi-69194c54-a592-4f5c-915e-6b438e00996f)
 - [Homework #8](https://github.com/onefishy/am207/blob/master/HW/AM207_HW8.ipynb)
 
 ### Reading
