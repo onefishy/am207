@@ -10,8 +10,8 @@
 - [Lecture #7 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_7_summary.ipynb)
 
 ### Activities
-- [In-Class Exercise #6: Monte Carlo Integration](https://deepnote.com/project/AM207Fall202106montecarlointegration-nmOso89pRcOwjODn93xUmw)
-- [In-Class Exercise #7: Introduction to MCMC](https://deepnote.com/project/AM207Fall202107introductiontoMCMC-s5aMcI9gRLy2P2F22vw-sg)
+- [In-Class Exercise #6: Monte Carlo Integration](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202106montecarlointegration-9e63aca3-cf69-45c3-b08c-e0e7f77c549b)
+- [In-Class Exercise #7: Introduction to MCMC](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202107introductiontoMCMC-b3968c70-8f60-44bc-b63f-6176dafc3eb2)
 - [Homework #3](https://github.com/onefishy/am207/blob/master/HW/AM207_HW3.ipynb)
 
 ### Reading
