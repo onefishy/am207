@@ -1,6 +1,7 @@
 # Week 11
 
 ### Lecture
+- [Lecture #20 Video](https://youtu.be/OWLty1YvMn4)
 - [Lecture #20 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_20_notes.ipynb)
 - [Lecture #21 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_21_notes.ipynb)
 
