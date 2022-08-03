@@ -1,9 +1,9 @@
 # Week 10
 
 ### Lecture
-- [Lecture #18 Notes](./Lectures/lecture_18_notes.ipynb)
-- [Lecture #19 Notes](./Lectures/lecture_19_notes.ipynb)
-- [Lecture #19 Summary](./Lectures/lecture_19_summary.ipynb)
+- [Lecture #18 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_18_notes.ipynb)
+- [Lecture #19 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_19_notes.ipynb)
+- [Lecture #19 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_19_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #18: Automatic Differentiation](https://deepnote.com/project/AM207Fall202118-automatic-differentiation-AukLJiR4TVWmQiasOrFtlw/%2FIn-Class%20Exercises%2F18_automatic_differentiation.ipynb)
