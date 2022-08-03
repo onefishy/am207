@@ -1,15 +1,17 @@
 # Week 9
 
 ### Lecture
-- [Lecture #16 Notes](./Lectures/lecture_16_notes.ipynb)
-- [Lecture #16 Summary](./Lectures/lecture_16_summary.ipynb)
-- [Lecture #17 Notes](./Lectures/lecture_17_notes.ipynb)
-- [Lecture #17 Summary](./Lectures/lecture_17_summary.ipynb)
+- [Lecture #16](https://youtu.be/GdwF4YxTo50)
+- [Lecture #16 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_16_notes.ipynb)
+- [Lecture #16 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_16_summary.ipynb)
+- [Lecture #17](https://youtu.be/jntZBAJVOtk)
+- [Lecture #17 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_17_notes.ipynb)
+- [Lecture #17 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_17_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #16: Understanding Neural Networks](https://deepnote.com/project/AM207Fall202116-neural-networks-fwrqD8L9QjKEd_yMCkXk0w)
 - [In-Class Exercise #17: Black-box Variational Inference](https://deepnote.com/project/AM207Fall202117-bbvi-aRlMVKWST1yRXmtDjgCZbw)
-- [Homework #8](./HW/AM207_HW8.ipynb)
+- [Homework #8](https://github.com/onefishy/am207/blob/master/HW/AM207_HW8.ipynb)
 
 ### Reading
 <p><strong>Applications and Broader Impact:</strong></p>
