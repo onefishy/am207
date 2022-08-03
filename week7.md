@@ -9,7 +9,7 @@
 
 ### Activities
 - [In-Class Exercise #12: Interpreting and Evaluating Logistic Regression Models](https://deepnote.com/project/AM207Fall202112-logistic-regression-iCB79dh7TryEY1rNcPBYjg)
-- [In-Class Exercise #9: Evaluating and Interpreting Hierarchical GLMs](https://deepnote.com/project/AM207Fall202113-hierarchical-GLM-e2vQBWGoTayZeUWnhJzPJA)
+- [In-Class Exercise #13: Evaluating and Interpreting Hierarchical GLMs](https://deepnote.com/project/AM207Fall202113-hierarchical-GLM-e2vQBWGoTayZeUWnhJzPJA)
 - [Homework #6](./HW/AM207_HW6.ipynb)
 
 ### Reading
