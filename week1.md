@@ -6,7 +6,7 @@
 - [Lecture #1 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_1_summary_slides.ipynb)
 
 ### Activities
-- [In-Class Exercise #1: Introduction to Linear Regression](https://deepnote.com/project/AM207Fall202101linearregression-aYM1a9NMQROUArhBIHjlNw/%2FIn-Class%20Exercises%2F01_linear_regression.ipynb)
+- [In-Class Exercise #1: Introduction to Linear Regression](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202101linearregression-6983356b-d34c-4113-9402-b8412078e537/%2FIn-Class%20Exercises%2F01_linear_regression.ipynb)
 - [Homework #0](https://github.com/onefishy/am207/blob/master/HW/AM207_HW0.ipynb)
 
 ### Reading
