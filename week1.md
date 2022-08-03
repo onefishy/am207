@@ -1,6 +1,7 @@
 # Week 1
 
 ### Lecture
+- [Lecture #1 Video](https://youtu.be/EtN-cLMypA4)
 - [Lecture #1 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_1_notes.ipynb)
 - [Lecture #1 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_1_summary_slides.ipynb)
 
