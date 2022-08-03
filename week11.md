@@ -6,8 +6,8 @@
 - [Lecture #21 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_21_notes.ipynb)
 
 ### Activities
-- [In-Class Exercise #20: Understanding VAEs](https://deepnote.com/project/AM207Fall202120-Understandign-VAEs-U9otxtT6TTm4dX_6KoPSZw)
-- [In-Class Exercise #21: Implementing VAEs](https://deepnote.com/project/AM207Fall202121-Implementing-VAEs-p0DU9Iy4SSmW2hO3MVhwzg)
+- [In-Class Exercise #20: Understanding VAEs](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202120-Understandign-VAEs-53da2dc6-d4fa-4d39-b875-7ffa2a83d267)
+- [In-Class Exercise #21: Implementing VAEs](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202121-Implementing-VAEs-a740d4f4-8cb8-4929-96da-13b7315870ce)
 
 ### Reading
 <p><strong>Applications and Broader Impact</strong></p>
