@@ -2,9 +2,9 @@
 
 ### Lecture
 - [Lecture #2 Notes](./Lectures/lecture_2_notes.ipynb)
-- [Lecture #2 Summary](./Summary/lecture_2_summary_slides.ipynb)
+- [Lecture #2 Summary](./Summary/lecture_2_summary.ipynb)
 - [Lecture #3 Notes](./Lectures/lecture_3_notes.ipynb)
-- [Lecture #3 Summary](./Summary/lecture_3_summary_slides.ipynb)
+- [Lecture #3 Summary](./Summary/lecture_3_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #2: Maximum Likelihood Estimation](https://deepnote.com/project/AM207Fall202102maximumlikelihoodestimation-3QUUCMJJS-KsIo5vmP5Apg)
