@@ -8,8 +8,8 @@
 - [Lecture #11 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_11_summary.ipynb)
 
 ### Activities
-- [In-Class Exercise #8: Variational Inference](https://deepnote.com/project/AM207Fall202110-variational-inference-FyFuEW0ZSnqpt6N0zcLSXg/%2FIn-Class%20Exercises%2F10_variational_inference.ipynb)
-- [In-Class Exercise #9: Properties of the KL-Divergence](https://deepnote.com/project/AM207Fall202111-properties-of-kl-02rqK2uiRvCOoGO3pZX9AQ/%2FIn-Class%20Exercises%2F11_properties_of_kl.ipynb)
+- [In-Class Exercise #8: Variational Inference](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202110-variational-inference-17216e11-6d19-4a7a-a9b7-a374cdc2d25e/%2FIn-Class%20Exercises%2F10_variational_inference.ipynb)
+- [In-Class Exercise #9: Properties of the KL-Divergence](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202111-properties-of-kl-d36aea2b-6ba2-46f0-8ea0-63b7a595fd01/%2FIn-Class%20Exercises%2F11_properties_of_kl.ipynb)
 - [Homework #5](https://github.com/onefishy/am207/blob/master/HW/AM207_HW5.ipynb)
 
 ### Reading
