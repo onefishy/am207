@@ -1,14 +1,16 @@
 # Week 6
 
 ### Lecture
-- [Lecture #10 Notes](./Lectures/lecture_10_notes.ipynb)
-- [Lecture #11 Notes](./Lectures/lecture_11_notes.ipynb)
-- [Lecture #11 Summary](./Lectures/lecture_11_summary.ipynb)
+- [Lecture #10 Video](https://youtu.be/uUF1e7hTFq8)
+- [Lecture #10 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_10_notes.ipynb)
+- [Lecture #11 Video](https://youtu.be/asgSnGXf3YI)
+- [Lecture #11 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_11_notes.ipynb)
+- [Lecture #11 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_11_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #8: Variational Inference](https://deepnote.com/project/AM207Fall202110-variational-inference-FyFuEW0ZSnqpt6N0zcLSXg/%2FIn-Class%20Exercises%2F10_variational_inference.ipynb)
 - [In-Class Exercise #9: Properties of the KL-Divergence](https://deepnote.com/project/AM207Fall202111-properties-of-kl-02rqK2uiRvCOoGO3pZX9AQ/%2FIn-Class%20Exercises%2F11_properties_of_kl.ipynb)
-- [Homework #5](./HW/AM207_HW5.ipynb)
+- [Homework #5](https://github.com/onefishy/am207/blob/master/HW/AM207_HW5.ipynb)
 
 ### Reading
 <p><strong>Applications and Broader Impact</strong></p>
