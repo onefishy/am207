@@ -3,9 +3,9 @@
 
 ### Lecture
 - [Lecture #6 Notes](./Lectures/lecture_6_notes.ipynb)
-- [Lecture #6 Summary](./Summary/lecture_6_summary.ipynb)
+- [Lecture #6 Summary](./Lectures/lecture_6_summary.ipynb)
 - [Lecture #7 Notes](./Lectures/lecture_7_notes.ipynb)
-- [Lecture #7 Summary](./Summary/lecture_7_summary.ipynb)
+- [Lecture #7 Summary](./Lectures/lecture_7_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #6: Monte Carlo Integration](https://deepnote.com/project/AM207Fall202106montecarlointegration-nmOso89pRcOwjODn93xUmw)
