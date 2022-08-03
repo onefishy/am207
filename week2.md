@@ -9,8 +9,8 @@
 - [Lecture #3 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_3_summary.ipynb)
 
 ### Activities
-- [In-Class Exercise #2: Maximum Likelihood Estimation](https://deepnote.com/project/AM207Fall202102maximumlikelihoodestimation-3QUUCMJJS-KsIo5vmP5Apg)
-- [In-Class Exercise #3: The Beta-Binomial Model](https://deepnote.com/project/AM207Fall202103betabinomialmodel-Q8B_KVAsTIGzsGuyrIi42w)
+- [In-Class Exercise #2: Maximum Likelihood Estimation](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202102maximumlikelihoodestimation-dd051408-c249-4be2-ac22-8e6f98fe40a6)
+- [In-Class Exercise #3: The Beta-Binomial Model](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202103betabinomialmodel-43c07f29-502c-4c81-b3b0-6bb2ac88b8db)
 - [Homework #1](https://github.com/onefishy/am207/blob/master/HW/AM207_HW1.ipynb)
 
 ### Reading
