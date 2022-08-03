@@ -10,8 +10,8 @@
 - [Lecture #13 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_13_summary.ipynb)
 
 ### Activities
-- [In-Class Exercise #12: Interpreting and Evaluating Logistic Regression Models](https://deepnote.com/project/AM207Fall202112-logistic-regression-iCB79dh7TryEY1rNcPBYjg)
-- [In-Class Exercise #13: Evaluating and Interpreting Hierarchical GLMs](https://deepnote.com/project/AM207Fall202113-hierarchical-GLM-e2vQBWGoTayZeUWnhJzPJA)
+- [In-Class Exercise #12: Interpreting and Evaluating Logistic Regression Models](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202112-logistic-regression-88207bf5-d87b-4ebc-8463-5acd70f0588e)
+- [In-Class Exercise #13: Evaluating and Interpreting Hierarchical GLMs](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202113-hierarchical-GLM-7b6bd005-61a8-4dac-9979-45a7849ccf24)
 - [Homework #6](https://github.com/onefishy/am207/blob/master/HW/AM207_HW6.ipynb)
 
 ### Reading
