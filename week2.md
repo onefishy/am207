@@ -3,15 +3,15 @@
 ### Lecture
 - [Lecture #2 Video](https://youtu.be/YBXBIUwYQSQ)
 - [Lecture #2 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_2_notes.ipynb)
-- [Lecture #2 Summary](./Lectures/lecture_2_summary.ipynb)
+- [Lecture #2 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_2_summary.ipynb)
 - [Lecture #3 Video](https://youtu.be/bhrUXe09A-Y)
-- [Lecture #3 Notes](./Lectures/lecture_3_notes.ipynb)
-- [Lecture #3 Summary](./Lectures/lecture_3_summary.ipynb)
+- [Lecture #3 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_3_notes.ipynb)
+- [Lecture #3 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_3_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #2: Maximum Likelihood Estimation](https://deepnote.com/project/AM207Fall202102maximumlikelihoodestimation-3QUUCMJJS-KsIo5vmP5Apg)
 - [In-Class Exercise #3: The Beta-Binomial Model](https://deepnote.com/project/AM207Fall202103betabinomialmodel-Q8B_KVAsTIGzsGuyrIi42w)
-- [Homework #1](./HW/AM207_HW1.ipynb)
+- [Homework #1](https://github.com/onefishy/am207/blob/master/HW/AM207_HW1.ipynb)
 
 ### Reading
 <p><strong><span style="font-family: sans-serif; font-size: 1rem;">Applications and Broader Impact</span></strong></p>
