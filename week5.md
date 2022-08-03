@@ -1,14 +1,16 @@
 # Week 5
 
 ### Lecture
-- [Lecture #8 Notes](./Lectures/lecture_8_notes.ipynb)
-- [Lecture #8 Summary](./Lectures/lecture_8_summary.ipynb)
-- [Lecture #9 Notes](./Lectures/lecture_9_notes.ipynb)
+- [Lecture #8 Video](https://youtu.be/y1WNKlA1ZhU)
+- [Lecture #8 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_8_notes.ipynb)
+- [Lecture #8 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_8_summary.ipynb)
+- [Lecture #9 Video](https://youtu.be/KWv5k1QaXIk)
+- [Lecture #9 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_9_notes.ipynb)
 
 ### Activities
 - [In-Class Exercise #8: Metropolis-Hastings and Gibbs Sampling](https://deepnote.com/project/AM207Fall202108-MH-and-Gibbs-_-uidW8qQXy-mQ6w0LJ7-w)
 - [In-Class Exercise #9: Expectation Maximization](https://deepnote.com/project/AM207Fall202109-expectation-maximization-l6HX_UP8RXCBD7K5DvSAvg)
-- [Homework #4](./HW/AM207_HW4.ipynb)
+- [Homework #4](https://github.com/onefishy/am207/blob/master/HW/AM207_HW4.ipynb)
 
 ### Reading
 <p><strong>Applications and Broader Impact:</strong></p>
