@@ -10,7 +10,7 @@
 ### Activities
 - [In-Class Exercise #6: Monte Carlo Integration](https://deepnote.com/project/AM207Fall202106montecarlointegration-nmOso89pRcOwjODn93xUmw)
 - [In-Class Exercise #7: Introduction to MCMC](https://deepnote.com/project/AM207Fall202107introductiontoMCMC-s5aMcI9gRLy2P2F22vw-sg)
-- [Homework #2](./HW/AM207_HW2.ipynb)
+- [Homework #3](./HW/AM207_HW3.ipynb)
 
 ### Reading
 <p><strong><span style="font-family: sans-serif; font-size: 1rem;">Applications and Broader Impact</span></strong></p>
