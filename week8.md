@@ -1,15 +1,17 @@
 # Week 8
 
 ### Lecture
-- [Lecture #14 Notes](./Lectures/lecture_14_notes.ipynb)
-- [Lecture #14 Summary](./Lectures/lecture_14_summary.ipynb)
-- [Lecture #15 Notes](./Lectures/lecture_15_notes.ipynb)
-- [Lecture #15 Summary](./Lectures/lecture_15_summary.ipynb)
+- [Lecture #14 Video](https://youtu.be/h-iPz_PtAY0)
+- [Lecture #14 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_14_notes.ipynb)
+- [Lecture #14 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_14_summary.ipynb)
+- [Lecture #15 Video](https://youtu.be/jiIxj68f0t8)
+- [Lecture #15 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_15_notes.ipynb)
+- [Lecture #15 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_15_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #14: Introduction to HMC](https://deepnote.com/project/AM207Fall202114-intro-to-HMC-OWzc4s87QwGsAEaqRAGUqg)
 - [In-Class Exercise #15: Applying HMC to Bayesian Logistic Regression Models](https://deepnote.com/project/AM207Fall202115-applying-HMC-JyMJImD5RQWxmCLk92TPqw)
-- [Homework #7](./HW/AM207_HW7.ipynb)
+- [Homework #7](https://github.com/onefishy/am207/blob/master/HW/AM207_HW7.ipynb)
 
 ### Reading
 <p><strong>Applications and Broader Impact</strong></p>
