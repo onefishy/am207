@@ -2,15 +2,17 @@
 # Week 4
 
 ### Lecture
-- [Lecture #6 Notes](./Lectures/lecture_6_notes.ipynb)
-- [Lecture #6 Summary](./Lectures/lecture_6_summary.ipynb)
-- [Lecture #7 Notes](./Lectures/lecture_7_notes.ipynb)
-- [Lecture #7 Summary](./Lectures/lecture_7_summary.ipynb)
+- [Lecture #6 Video](https://youtu.be/aZ5dGdG3OhY)
+- [Lecture #6 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_6_notes.ipynb)
+- [Lecture #6 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_6_summary.ipynb)
+- [Lecture #7 Video](https://youtu.be/a9H0oo_8BiI)
+- [Lecture #7 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_7_notes.ipynb)
+- [Lecture #7 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_7_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #6: Monte Carlo Integration](https://deepnote.com/project/AM207Fall202106montecarlointegration-nmOso89pRcOwjODn93xUmw)
 - [In-Class Exercise #7: Introduction to MCMC](https://deepnote.com/project/AM207Fall202107introductiontoMCMC-s5aMcI9gRLy2P2F22vw-sg)
-- [Homework #3](./HW/AM207_HW3.ipynb)
+- [Homework #3](https://github.com/onefishy/am207/blob/master/HW/AM207_HW3.ipynb)
 
 ### Reading
 <p><strong><span style="font-family: sans-serif; font-size: 1rem;">Applications and Broader Impact</span></strong></p>
