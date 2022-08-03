@@ -1,8 +1,10 @@
 # Week 2
 
 ### Lecture
-- [Lecture #2 Notes](./Lectures/lecture_2_notes.ipynb)
+- [Lecture #2 Video](https://youtu.be/YBXBIUwYQSQ)
+- [Lecture #2 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_2_notes.ipynb)
 - [Lecture #2 Summary](./Lectures/lecture_2_summary.ipynb)
+- [Lecture #3 Video](https://youtu.be/bhrUXe09A-Y)
 - [Lecture #3 Notes](./Lectures/lecture_3_notes.ipynb)
 - [Lecture #3 Summary](./Lectures/lecture_3_summary.ipynb)
 
