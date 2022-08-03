@@ -18,7 +18,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>9/02</strong></p>
-                            <p style="text-align: center;"><span>Course Overview</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week1.html" target="_blank" rel="noopener">Course Overview</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -30,7 +30,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>9/07</strong></p>
-                            <p style="text-align: center;"><span>Maximum Likelihood Estimators &amp; Convex Optimization</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week2.html" target="_blank" rel="noopener">Maximum Likelihood Estimators &amp; Convex Optimization</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>9/09</strong></p>
-                            <p style="text-align: center;"><span>Bayesian Models</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week2.html" target="_blank" rel="noopener">Bayesian Models</a></span></p>
                             <p style="text-align: center;"><span style="color: #ff0000;">HW #0 Due</span></p>
                         </div>
                     </div>
@@ -53,7 +53,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>9/15</strong></p>
-                            <p style="text-align: center;"><span>Bayesian versus Frequentist Approaches</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week3.html" target="_blank" rel="noopener">Bayesian versus Frequentist Approaches</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>9/16</strong></p>
-                            <p style="text-align: center;"><span>Introduction to Sampling</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week3.html" target="_blank" rel="noopener">Introduction to Sampling</a></span></p>
                             <p style="text-align: center;"><span><span style="color: #ff0000;">HW #1 Due</span></span></p>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>9/21</strong></p>
-                            <p style="text-align: center;"><span>Monte Carlo Simulation</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week4.html" target="_blank" rel="noopener">Monte Carlo Simulation</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>9/23</strong></p>
-                            <p style="text-align: center;"><span>MCMC Sampling</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week4.html" target="_blank" rel="noopener">MCMC Sampling</a></span></p>
                             <p style="text-align: center;"><span><span style="color: #ff0000;">HW #2 Due</span></span></p>
                         </div>
                     </div>
@@ -99,7 +99,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>9/28</strong></p>
-                            <p style="text-align: center;"><span>MCMC Sampling: Diagnostics</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week5.html" target="_blank" rel="noopener">MCMC Sampling: Diagnostics</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>9/30</strong></p>
-                            <p style="text-align: center;"><span>Latent Variable Models &amp; EM</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week5.html" target="_blank" rel="noopener">Latent Variable Models &amp; EM</a></span></p>
                             <p style="text-align: center;"><span style="color: #ff0000;">Project Checkpoint #1: Team Formation</span></p>
                             <p style="text-align: center;"><span style="color: #ff0000;">HW #3 Due</span></p>
                         </div>
@@ -123,7 +123,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>10/05</strong></p>
-                            <p style="text-align: center;"><span>Latent Variable Models &amp; VI</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week6.html" target="_blank" rel="noopener">Latent Variable Models &amp; VI</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>10/07</strong></p>
-                            <p style="text-align: center;"><span>Hierarchical Models, Empirical Bayes &amp; Model Selection</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week6.html" target="_blank" rel="noopener">Hierarchical Models, Empirical Bayes &amp; Model Selection</a></span></p>
                             <p style="text-align: center;"><span><span style="color: #ff0000;">HW #4 Due</span></span></p>
                         </div>
                     </div>
@@ -146,7 +146,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>10/12</strong></p>
-                            <p style="text-align: center;"><span>Logistic Regression &amp; Gradient Descent</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week7.html" target="_blank" rel="noopener">Logistic Regression &amp; Gradient Descent</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -156,7 +156,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>10/14</strong></p>
-                            <p style="text-align: center;"><span>Stochastic Gradient Descent &amp; Simulated Annealing</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week7.html" target="_blank" rel="noopener">Stochastic Gradient Descent &amp; Simulated Annealing</a></span></p>
                             <p style="text-align: center;"><span><span style="color: #ff0000;">HW #5 Due</span></span></p>
                         </div>
                     </div>
@@ -169,7 +169,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>10/19</strong></p>
-                            <p style="text-align: center;"><span>Hamiltonian Monte Carlo</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week8.html" target="_blank" rel="noopener">Hamiltonian Monte Carlo</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -179,7 +179,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>10/21</strong></p>
-                            <p style="text-align: center;"><span>Parallel Tempering</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week8.html" target="_blank" rel="noopener">Parallel Tempering</a></span></p>
                             <p style="text-align: center;"><span><span style="color: #ff0000;">Project Checkpoint #2: Paper Selection</span></span></p>
                             <p style="text-align: center;"><span><span style="color: #ff0000;">HW #6 Due</span></span></p>
                         </div>
@@ -193,7 +193,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>10/26</strong></p>
-                            <p style="text-align: center;"><span>Neural Networks</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week9.html" target="_blank" rel="noopener">Neural Networks</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -203,7 +203,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>10/28</strong></p>
-                            <p style="text-align: center;"><span>Bayesian Neural Networks (BNNs) and VI</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week9.html" target="_blank" rel="noopener">Bayesian Neural Networks (BNNs) and VI</a></span></p>
                             <p style="text-align: center;"><span><span style="color: #ff0000;">HW #7 Due</span></span></p>
                         </div>
                     </div>
@@ -216,7 +216,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>11/02</strong></p>
-                            <p style="text-align: center;"><span>Automatic Differentiation Variational Inference</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week10.html" target="_blank" rel="noopener">Automatic Differentiation Variational Inference</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -226,7 +226,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>11/04</strong></p>
-                            <p style="text-align: center;"><span>Evaluating Variational Inference</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week10.html" target="_blank" rel="noopener">Evaluating Variational Inference</a></span></p>
                             <p style="text-align: center;"><span><span style="color: #ff0000;">Project Checkpoint #3: Paper Overview</span></span></p>
                             <p style="text-align: center;"><span><span style="color: #ff0000;">HW #8 Due</span></span></p>
                         </div>
@@ -240,7 +240,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>11/09</strong></p>
-                            <p style="text-align: center;"><span>Variational Autoencoders (VAEs)</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week11.html" target="_blank" rel="noopener">Variational Autoencoders (VAEs)</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -250,7 +250,7 @@
                     <div class="layoutArea">
                         <div class="column">
                             <p style="text-align: center;"><strong>11/10</strong></p>
-                            <p style="text-align: center;"><span>VAEs: Implementation Details</span></p>
+                            <p style="text-align: center;"><span><a class="inline_disabled" href="https://onefishy.github.io/am207/week11.html" target="_blank" rel="noopener">VAEs: Implementation Details</a></span></p>
                         </div>
                     </div>
                 </div>
