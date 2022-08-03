@@ -5,7 +5,7 @@
 - [Lecture #1 Summary](./Summary/Summary1.html)
 
 ### Activities
-- [In-Class Exercise 1](./Lab/Lab1.html)
+- [In-Class Exercise #1](./Lab/Lab1.html)
 - [Homework #0](./HW/HW0.html)
 
 ### Reading
