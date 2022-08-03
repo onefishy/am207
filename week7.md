@@ -2,15 +2,17 @@
 # Week 7
 
 ### Lecture
-- [Lecture #12 Notes](./Lectures/lecture_12_notes.ipynb)
-- [Lecture #12 Summary](./Lectures/lecture_12_summary.ipynb)
-- [Lecture #13 Notes](./Lectures/lecture_13_notes.ipynb)
-- [Lecture #13 Summary](./Lectures/lecture_13_summary.ipynb)
+- [Lecture #12 Video](https://youtu.be/kqPcV2RQySU)
+- [Lecture #12 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_12_notes.ipynb)
+- [Lecture #12 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_12_summary.ipynb)
+- [Lecture #13 Video](https://youtu.be/aCb-wX_4mWU)
+- [Lecture #13 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_13_notes.ipynb)
+- [Lecture #13 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_13_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #12: Interpreting and Evaluating Logistic Regression Models](https://deepnote.com/project/AM207Fall202112-logistic-regression-iCB79dh7TryEY1rNcPBYjg)
 - [In-Class Exercise #13: Evaluating and Interpreting Hierarchical GLMs](https://deepnote.com/project/AM207Fall202113-hierarchical-GLM-e2vQBWGoTayZeUWnhJzPJA)
-- [Homework #6](./HW/AM207_HW6.ipynb)
+- [Homework #6](https://github.com/onefishy/am207/blob/master/HW/AM207_HW6.ipynb)
 
 ### Reading
 <p><strong>Applications and Broader Impact</strong></p>
