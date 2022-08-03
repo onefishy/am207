@@ -1,7 +1,9 @@
 # Week 10
 
 ### Lecture
+- [Lecture #18 Video](https://youtu.be/_-D0DiN49fc)
 - [Lecture #18 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_18_notes.ipynb)
+- [Lecture #19 Video](https://youtu.be/uzG8gKJOp_w)
 - [Lecture #19 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_19_notes.ipynb)
 - [Lecture #19 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_19_summary.ipynb)
 
