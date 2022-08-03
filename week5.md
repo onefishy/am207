@@ -1,12 +1,9 @@
-
-
 # Week 5
 
 ### Lecture
 - [Lecture #8 Notes](./Lectures/lecture_8_notes.ipynb)
 - [Lecture #8 Summary](./Lectures/lecture_8_summary.ipynb)
 - [Lecture #9 Notes](./Lectures/lecture_9_notes.ipynb)
-- [Lecture #9 Summary](./Lectures/lecture_9_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #8: Metropolis-Hastings and Gibbs Sampling](https://deepnote.com/project/AM207Fall202108-MH-and-Gibbs-_-uidW8qQXy-mQ6w0LJ7-w)
