@@ -11,7 +11,7 @@
 ### Activities
 - [In-Class Exercise #4: Bayesian versus Frequentist Inference](https://deepnote.com/project/AM207Fall202104bayesianversusfrequentist-Duplicate-Aq51m-eMRXuMUKX8igj4zQ)
 - [In-Class Exercise #5: Introduction to Sampling](https://deepnote.com/project/AM207Fall202105introductiontosampling-WMPRkMNFQ06etUKEFk6tYQ)
-- [Homework #2](./HW/AM207_HW2.ipynb)
+- [Homework #2](https://github.com/onefishy/am207/blob/master/HW/AM207_HW2.ipynb)
 
 ### Reading
 <p><strong><span style="font-family: sans-serif; font-size: 1rem;">Applications and Broader Impact</span></strong></p>
