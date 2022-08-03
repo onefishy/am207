@@ -2,7 +2,7 @@
 
 ### Lecture
 - [Lecture #1 Notes](./Lectures/lecture_1_notes.ipynb)
-- [Lecture #1 Summary](./Summary/lecture_1_summary_slides.ipynb)
+- [Lecture #1 Summary](./Lectures/lecture_1_summary_slides.ipynb)
 
 ### Activities
 - [In-Class Exercise #1: Introduction to Linear Regression](https://deepnote.com/project/AM207Fall202101linearregression-aYM1a9NMQROUArhBIHjlNw/%2FIn-Class%20Exercises%2F01_linear_regression.ipynb)
