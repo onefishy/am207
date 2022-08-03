@@ -8,7 +8,6 @@
 ### Activities
 - [In-Class Exercise #18: Automatic Differentiation](https://deepnote.com/project/AM207Fall202118-automatic-differentiation-AukLJiR4TVWmQiasOrFtlw/%2FIn-Class%20Exercises%2F18_automatic_differentiation.ipynb)
 - [In-Class Exercise #19: Evaluating and Comparing Approximate Inference](https://deepnote.com/project/AM207Fall202119-Evaluating-Approximate-Inference-qMdlYY0yRkqm62w8Jlr0NA/%2FIn-Class%20Exercises%2F19_Evaluating_Approximate_Inference.ipynb)
-- [Homework #7](./HW/AM207_HW7.ipynb)
 
 ### Reading
 <p>Applications and Broader Impact:</p>
