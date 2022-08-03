@@ -14,3 +14,15 @@ The aim of this course is to help students develops skills for computational res
 - [Course Schedule](./schedule.html)
 - [Course Project Description](./project.html)
 
+**Course Materials**
+- [Week 1](./week1.html)
+- [Week 2](./week2.html)
+- [Week 3](./week3.html)
+- [Week 4](./week4.html)
+- [Week 5](./week5.html)
+- [Week 6](./week6.html)
+- [Week 7](./week7.html)
+- [Week 8](./week8.html)
+- [Week 9](./week9.html)
+- [Week 10](./week10.html)
+- [Week 11](./week11.html)
