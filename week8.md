@@ -9,8 +9,8 @@
 - [Lecture #15 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_15_summary.ipynb)
 
 ### Activities
-- [In-Class Exercise #14: Introduction to HMC](https://deepnote.com/project/AM207Fall202114-intro-to-HMC-OWzc4s87QwGsAEaqRAGUqg)
-- [In-Class Exercise #15: Applying HMC to Bayesian Logistic Regression Models](https://deepnote.com/project/AM207Fall202115-applying-HMC-JyMJImD5RQWxmCLk92TPqw)
+- [In-Class Exercise #14: Introduction to HMC](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202114-intro-to-HMC-396cdce2-cf3b-4301-ac00-46aa440194aa)
+- [In-Class Exercise #15: Applying HMC to Bayesian Logistic Regression Models](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202115-applying-HMC-27230922-60f9-4505-b198-22e4f764cfab)
 - [Homework #7](https://github.com/onefishy/am207/blob/master/HW/AM207_HW7.ipynb)
 
 ### Reading
