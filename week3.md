@@ -9,8 +9,8 @@
 - [Lecture #5 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_5_summary.ipynb)
 
 ### Activities
-- [In-Class Exercise #4: Bayesian versus Frequentist Inference](https://deepnote.com/project/AM207Fall202104bayesianversusfrequentist-Duplicate-Aq51m-eMRXuMUKX8igj4zQ)
-- [In-Class Exercise #5: Introduction to Sampling](https://deepnote.com/project/AM207Fall202105introductiontosampling-WMPRkMNFQ06etUKEFk6tYQ)
+- [In-Class Exercise #4: Bayesian versus Frequentist Inference](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202104bayesianversusfrequentist-Duplicate-02ae759b-e78c-457b-8c50-a5fc8a08f8cd)
+- [In-Class Exercise #5: Introduction to Sampling](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202105introductiontosampling-58c3d190-c345-434e-9eb5-4284164ead61)
 - [Homework #2](https://github.com/onefishy/am207/blob/master/HW/AM207_HW2.ipynb)
 
 ### Reading
