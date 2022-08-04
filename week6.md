@@ -1,11 +1,13 @@
 # Week 6
 
 ### Lecture
-- [Lecture #10 Video](https://youtu.be/uUF1e7hTFq8)
-- [Lecture #10 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_10_notes.ipynb)
-- [Lecture #11 Video](https://youtu.be/asgSnGXf3YI)
-- [Lecture #11 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_11_notes.ipynb)
-- [Lecture #11 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_11_summary.ipynb)
+- Lecture #10: Bayesian Latent Variable Models and Variational Inference
+  - [Lecture Video](https://youtu.be/uUF1e7hTFq8)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_10_notes.ipynb)
+- Lecture #11: Hierarchical Models
+  - [Lecture Video](https://youtu.be/asgSnGXf3YI)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_11_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_11_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #8: Variational Inference](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202110-variational-inference-17216e11-6d19-4a7a-a9b7-a374cdc2d25e/%2FIn-Class%20Exercises%2F10_variational_inference.ipynb)
