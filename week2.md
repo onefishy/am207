@@ -1,12 +1,14 @@
 # Week 2
 
 ### Lecture
-- [Lecture #2 Video](https://youtu.be/YBXBIUwYQSQ)
-- [Lecture #2 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_2_notes.ipynb)
-- [Lecture #2 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_2_summary.ipynb)
-- [Lecture #3 Video](https://youtu.be/bhrUXe09A-Y)
-- [Lecture #3 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_3_notes.ipynb)
-- [Lecture #3 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_3_summary.ipynb)
+- Lecture #2: Maximum Likelihood Estimation
+  - [Lecture Video](https://youtu.be/YBXBIUwYQSQ)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_2_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_2_summary.ipynb)
+- Lecture #3: Bayesian Modeling
+  - [Lecture Video](https://youtu.be/bhrUXe09A-Y)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_3_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_3_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #2: Maximum Likelihood Estimation](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202102maximumlikelihoodestimation-dd051408-c249-4be2-ac22-8e6f98fe40a6)
