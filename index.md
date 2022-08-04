@@ -18,7 +18,7 @@ The aim of this course is to help students develops skills for computational res
 
 The following links provide access to: 1) lecture videos 2) lecture notes 3) lecture note summaries 4) in-class exercises and 5) homework.
 
-The Lecture video aims to cover high level ideas underlying the topic in question to help you build intuition and make connections between different ideas. There are many details that are necessary for gaining a deeper understanding of a subject and students are expected to study these in addition to watching the lecture videos. The notes for each lecture is a jupyter notebook (e.g.  lecture_1_notes.ipynb) and typically covers the topics addressed in the lecture videos in greater levels of detail. For each lecture, there is also a summary providing high level synthesis of topics covered in lecture as well as explorations of their broader social impact.
+Lecture videos aims to cover high level ideas to help you build intuition and make connections between different concepts. There are many details that are necessary for gaining a deeper understanding of a subject, and students are expected to study these in addition to watching the lecture videos. The notes for each lecture is contained in a `Jupyter Notebook` (e.g.  `lecture_1_notes.ipynb`), and typically cover topics addressed in lecture videos in greater levels of detail. For each lecture, there is also a summary providing high level synthesis of topics as well as explorations of their broader social impact.
 
 - [Week 1](./week1.html)
 - [Week 2](./week2.html)
