@@ -1,12 +1,14 @@
 # Week 9
 
 ### Lecture
-- [Lecture #16](https://youtu.be/GdwF4YxTo50)
-- [Lecture #16 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_16_notes.ipynb)
-- [Lecture #16 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_16_summary.ipynb)
-- [Lecture #17](https://youtu.be/jntZBAJVOtk)
-- [Lecture #17 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_17_notes.ipynb)
-- [Lecture #17 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_17_summary.ipynb)
+- Lecture #16: Neural Network Models for Regression
+  - [Lecture Video](https://youtu.be/GdwF4YxTo50)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_16_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_16_summary.ipynb)
+- Lecture #17: Black-box Variational Inference
+  - [Lecture Video](https://youtu.be/jntZBAJVOtk)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_17_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_17_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #16: Understanding Neural Networks](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202116-neural-networks-7f0aea0f-c2fd-4232-8477-fc8c0a45e4d3)
