@@ -14,20 +14,13 @@
 - [Homework #8](https://github.com/onefishy/am207/blob/master/HW/AM207_HW8.ipynb)
 
 ### Reading
-<p><strong>Applications and Broader Impact:</strong></p>
-<div class="page" title="Page 1">
-    <div class="section">
-        <div class="layoutArea">
-            <ol>
-                <li><a class="inline_disabled" href="https://arxiv.org/pdf/1606.03490.pdf" target="_blank" rel="noopener"><span>The Mythos of Model Interpretability</span></a></li>
-                <li><a class="inline_disabled" href="https://arxiv.org/pdf/1811.10154.pdf" target="_blank" rel="noopener"><span>Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead</span></a></li>
-            </ol>
-        </div>
-    </div>
-</div>
-<p><strong>Variational Inference for Bayesian Neural Networks</strong></p>
-<ol>
-    <li><a href="https://arxiv.org/abs/1401.0118">Black Box Variational Inference</a></li>
-    <li><a href="https://arxiv.org/abs/1505.05424">Weight Uncertainty in Neural Networks</a></li>
-    <li><a href="https://arxiv.org/abs/1703.09194">Sticking the Landing: Simple, Lower-Variance Gradient Estimators for Variational Inference</a></li>
-</ol>
+**Applications and Broader Impact:**
+
+1.  [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
+2.  [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://arxiv.org/pdf/1811.10154.pdf)
+
+**Variational Inference for Bayesian Neural Networks**
+
+1.  [Black Box Variational Inference](https://arxiv.org/abs/1401.0118)
+2.  [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424)
+3.  [Sticking the Landing: Simple, Lower-Variance Gradient Estimators for Variational Inference](https://arxiv.org/abs/1703.09194)
