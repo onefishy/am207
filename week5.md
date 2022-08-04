@@ -1,11 +1,13 @@
 # Week 5
 
 ### Lecture
-- [Lecture #8 Video](https://youtu.be/y1WNKlA1ZhU)
-- [Lecture #8 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_8_notes.ipynb)
-- [Lecture #8 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_8_summary.ipynb)
-- [Lecture #9 Video](https://youtu.be/KWv5k1QaXIk)
-- [Lecture #9 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_9_notes.ipynb)
+- Lecture #8: Metropolis-Hastings and Gibbs
+  - [Lecture Video](https://youtu.be/y1WNKlA1ZhU)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_8_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_8_summary.ipynb)
+- Lecture #9: Latent Variable Models and MLE
+  - [Lecture Video](https://youtu.be/KWv5k1QaXIk)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_9_notes.ipynb)
 
 ### Activities
 - [In-Class Exercise #8: Metropolis-Hastings and Gibbs Sampling](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202108-MH-and-Gibbs-ffeba275-6f2a-417c-be99-0eb0d0b27bfb)
