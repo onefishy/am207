@@ -1,12 +1,14 @@
 # Week 3
 
 ### Lecture
-- [Lecture #4 Video](https://youtu.be/623wr7QsXWA)
-- [Lecture #4 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_4_notes.ipynb)
-- [Lecture #4 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_4_summary.ipynb)
-- [Lecture #5 Video](https://youtu.be/aRVIJpPPg3o)
-- [Lecture #5 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_5_notes.ipynb)
-- [Lecture #5 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_5_summary.ipynb)
+- Lecture #4: Bayesian vs Frequentist Inference
+  - [Lecture Video](https://youtu.be/623wr7QsXWA)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_4_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_4_summary.ipynb)
+- Lecture #5: Sampling for Posterior Simulation
+  - [Lecture Video](https://youtu.be/aRVIJpPPg3o)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_5_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_5_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #4: Bayesian versus Frequentist Inference](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202104bayesianversusfrequentist-Duplicate-02ae759b-e78c-457b-8c50-a5fc8a08f8cd)
