@@ -1,9 +1,11 @@
 # Week 1
 
 ### Lecture
-- [Lecture #1 Video](https://youtu.be/EtN-cLMypA4)
-- [Lecture #1 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_1_notes.ipynb)
-- [Lecture #1 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_1_summary_slides.ipynb)
+
+- Lecture #1: Course Overview
+  - [Lecture Video](https://youtu.be/EtN-cLMypA4)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_1_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_1_summary_slides.ipynb)
 
 ### Activities
 - [In-Class Exercise #1: Introduction to Linear Regression](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202101linearregression-6983356b-d34c-4113-9402-b8412078e537/%2FIn-Class%20Exercises%2F01_linear_regression.ipynb)
