@@ -2,12 +2,14 @@
 # Week 4
 
 ### Lecture
-- [Lecture #6 Video](https://youtu.be/aZ5dGdG3OhY)
-- [Lecture #6 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_6_notes.ipynb)
-- [Lecture #6 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_6_summary.ipynb)
-- [Lecture #7 Video](https://youtu.be/a9H0oo_8BiI)
-- [Lecture #7 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_7_notes.ipynb)
-- [Lecture #7 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_7_summary.ipynb)
+- Lecture #6: Monte Carlo Integration
+  - [Lecture Video](https://youtu.be/aZ5dGdG3OhY)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_6_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_6_summary.ipynb)
+- Lecture #7: Markov Chain Monte Carlo
+  - [Lecture Video](https://youtu.be/a9H0oo_8BiI)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_7_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_7_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #6: Monte Carlo Integration](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202106montecarlointegration-9e63aca3-cf69-45c3-b08c-e0e7f77c549b)
