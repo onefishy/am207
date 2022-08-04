@@ -1,11 +1,13 @@
 # Week 10
 
 ### Lecture
-- [Lecture #18 Video](https://youtu.be/_-D0DiN49fc)
-- [Lecture #18 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_18_notes.ipynb)
-- [Lecture #19 Video](https://youtu.be/uzG8gKJOp_w)
-- [Lecture #19 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_19_notes.ipynb)
-- [Lecture #19 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_19_summary.ipynb)
+- Lecture #18: Automatic Differentiation
+  - [Lecture Video](https://youtu.be/_-D0DiN49fc)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_18_notes.ipynb)
+- Lecture #19: Variational Inference in Context
+  - [Lecture Video](https://youtu.be/uzG8gKJOp_w)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_19_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_19_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #18: Automatic Differentiation](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202118-automatic-differentiation-02e90b26-2478-4d55-a642-26ac3ab16d97/%2FIn-Class%20Exercises%2F18_automatic_differentiation.ipynb)
