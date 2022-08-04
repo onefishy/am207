@@ -1,9 +1,12 @@
 # Week 11
 
 ### Lecture
-- [Lecture #20 Video](https://youtu.be/OWLty1YvMn4)
-- [Lecture #20 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_20_notes.ipynb)
-- [Lecture #21 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_21_notes.ipynb)
+- Lecture #20: Variational Autoencoders
+  - [Lecture Video](https://youtu.be/OWLty1YvMn4)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_20_notes.ipynb)
+
+- Lecture #21: Implementing Variational Autoencoders
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_21_notes.ipynb)
 
 ### Activities
 - [In-Class Exercise #20: Understanding VAEs](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202120-Understandign-VAEs-53da2dc6-d4fa-4d39-b875-7ffa2a83d267)
