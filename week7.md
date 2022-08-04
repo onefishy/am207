@@ -2,12 +2,14 @@
 # Week 7
 
 ### Lecture
-- [Lecture #12 Video](https://youtu.be/kqPcV2RQySU)
-- [Lecture #12 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_12_notes.ipynb)
-- [Lecture #12 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_12_summary.ipynb)
-- [Lecture #13 Video](https://youtu.be/aCb-wX_4mWU)
-- [Lecture #13 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_13_notes.ipynb)
-- [Lecture #13 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_13_summary.ipynb)
+- Lecture #12: Logistic Regression and Gradient Descent
+  - [Lecture Video](https://youtu.be/kqPcV2RQySU)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_12_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_12_summary.ipynb)
+- Lecture #13: Stochastic Gradient Descent and Simulated Annealing
+  - [Lecture Video](https://youtu.be/aCb-wX_4mWU)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_13_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_13_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #12: Interpreting and Evaluating Logistic Regression Models](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202112-logistic-regression-88207bf5-d87b-4ebc-8463-5acd70f0588e)
