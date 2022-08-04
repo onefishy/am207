@@ -21,16 +21,16 @@
 
 **Bayesian versus Frequentist Inference**
 
-1\. (Introductory) [Comparison of Frequentist and Bayesian Inference](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading20.pdf)
+1. (Introductory) [Comparison of Frequentist and Bayesian Inference](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading20.pdf)
 
-2\. (Advanced) [Properties of MLE: consistency, asymptotic normality, Fisher information](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/lecture-notes/lecture3.pdf)
+2. (Advanced) [Properties of MLE: consistency, asymptotic normality, Fisher information](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/lecture-notes/lecture3.pdf)
 
-3\. (Advanced) [Consistency, asymptotic normality, and coverage](https://jwmi.github.io/ASM/1-FrequentistEvaluations.pdf)
+3. (Advanced) [Consistency, asymptotic normality, and coverage](https://jwmi.github.io/ASM/1-FrequentistEvaluations.pdf)
 
 **Sampling**
 
-1\. (Introductory) [Provable Randomness: How to Test RNGs](https://medium.com/unitychain/provable-randomness-how-to-test-rngs-55ac6726c5a3)
+1. (Introductory) [Provable Randomness: How to Test RNGs](https://medium.com/unitychain/provable-randomness-how-to-test-rngs-55ac6726c5a3)
 
-2\. (Introductory) [Basics of Sampling](https://www.math.arizona.edu/~tgk/mc/book_chap4.pdf) 
+2. (Introductory) [Basics of Sampling](https://www.math.arizona.edu/~tgk/mc/book_chap4.pdf) 
 
-3\. (More detailed) [How to choose g and M in rejection sampling](https://bookdown.org/rdpeng/advstatcomp/rejection-sampling.html)
+3. (More detailed) [How to choose g and M in rejection sampling](https://bookdown.org/rdpeng/advstatcomp/rejection-sampling.html)
