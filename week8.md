@@ -1,12 +1,14 @@
 # Week 8
 
 ### Lecture
-- [Lecture #14 Video](https://youtu.be/h-iPz_PtAY0)
-- [Lecture #14 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_14_notes.ipynb)
-- [Lecture #14 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_14_summary.ipynb)
-- [Lecture #15 Video](https://youtu.be/jiIxj68f0t8)
-- [Lecture #15 Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_15_notes.ipynb)
-- [Lecture #15 Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_15_summary.ipynb)
+- Lecture #14: Hamiltonian Monte Carlo
+  - [Lecture Video](https://youtu.be/h-iPz_PtAY0)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_14_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_14_summary.ipynb)
+- Lecture #15: Parallel Tempering and Stochastic HMC
+  - [Lecture Video](https://youtu.be/jiIxj68f0t8)
+  - [Lecture Notes](https://github.com/onefishy/am207/blob/master/Lectures/lecture_15_notes.ipynb)
+  - [Lecture Summary](https://github.com/onefishy/am207/blob/master/Lectures/lecture_15_summary.ipynb)
 
 ### Activities
 - [In-Class Exercise #14: Introduction to HMC](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202114-intro-to-HMC-396cdce2-cf3b-4301-ac00-46aa440194aa)
