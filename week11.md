@@ -10,26 +10,18 @@
 - [In-Class Exercise #21: Implementing VAEs](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202121-Implementing-VAEs-a740d4f4-8cb8-4929-96da-13b7315870ce)
 
 ### Reading
-<p><strong>Applications and Broader Impact</strong></p>
-<ol>
-    <li><a class="inline_disabled" href="https://www.washingtonpost.com/technology/2021/05/14/deepfake-cheer-mom-claims-dropped/" target="_blank" rel="noopener">Remember the &lsquo;deepfake cheerleader mom&rsquo;? Prosecutors now admit they can&rsquo;t prove fake-video claims.</a></li>
-    <li><a class="inline_disabled" href="https://www.brookings.edu/research/fighting-deepfakes-when-detection-fails/" target="_blank" rel="noopener">Fighting deepfakes when detection fails</a></li>
-    <li><a class="inline_disabled" href="https://www.ibm.com/blogs/research/2020/06/accelerated-discovery/" target="_blank" rel="noopener">Using Generative AI to Accelerate Drug Discovery</a></li>
-    <li><a class="inline_disabled" href="https://towardsdatascience.com/positive-use-cases-of-deepfakes-49f510056387" target="_blank" rel="noopener">Positive Use Cases of Deepfakes</a></li>
-</ol>
-<p><strong>Variational Autoencoders</strong></p>
-<div class="page" title="Page 1">
-    <div class="section">
-        <div class="layoutArea">
-            <div class="column">
-                <ol>
-                    <li><span>(Original VAE paper) <a href="https://arxiv.org/pdf/1312.6114.pdf">Auto-Encoding Variational Bayes </a></span></li>
-                    <li>(Thorough)<a href="https://arxiv.org/pdf/1906.02691.pdf"> An Introduction to Variational Autoencoders</a></li>
-                    <li><span>(Thorough) <a href="https://arxiv.org/pdf/1606.05908.pdf">Tutorial on Variational Autoencoders</a></span></li>
-                    <li><span><a href="https://arxiv.org/pdf/1606.05908.pdf"></a></span><span><a href="https://arxiv.org/pdf/1606.05908.pdf"></a>(First Section is Introductory) <a href="https://ermongroup.github.io/blog/a-tutorial-on-mmd-variational-autoencoders/">A Tutorial on Information Maximizing Variational Autoencoders (InfoVAE)</a></span></li>
-                    <li><span>(Implementation) <a href="https://github.com/HIPS/autograd/blob/master/examples/variational_autoencoder.py">Example Implementation on Autograd's Github</a></span></li>
-                </ol>
-            </div>
-        </div>
-    </div>
-</div>
+
+**Applications and Broader Impact**
+
+1.  [Remember the ‘deepfake cheerleader mom’? Prosecutors now admit they can’t prove fake-video claims.](https://www.washingtonpost.com/technology/2021/05/14/deepfake-cheer-mom-claims-dropped/)
+2.  [Fighting deepfakes when detection fails](https://www.brookings.edu/research/fighting-deepfakes-when-detection-fails/)
+3.  [Using Generative AI to Accelerate Drug Discovery](https://www.ibm.com/blogs/research/2020/06/accelerated-discovery/)
+4.  [Positive Use Cases of Deepfakes](https://towardsdatascience.com/positive-use-cases-of-deepfakes-49f510056387)
+
+**Variational Autoencoders**
+
+1.  (Original VAE paper) [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
+2.  (Thorough) [An Introduction to Variational Autoencoders](https://arxiv.org/pdf/1906.02691.pdf)
+3.  (Thorough) [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
+4.  [](https://arxiv.org/pdf/1606.05908.pdf)[](https://arxiv.org/pdf/1606.05908.pdf)(First Section is Introductory) [A Tutorial on Information Maximizing Variational Autoencoders (InfoVAE)](https://ermongroup.github.io/blog/a-tutorial-on-mmd-variational-autoencoders/)
+5.  (Implementation) [Example Implementation on Autograd's Github](https://github.com/HIPS/autograd/blob/master/examples/variational_autoencoder.py)
