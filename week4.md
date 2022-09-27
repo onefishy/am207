@@ -13,8 +13,11 @@
 
 ### Activities
 - [In-Class Exercise #6: Monte Carlo Integration](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202106montecarlointegration-9e63aca3-cf69-45c3-b08c-e0e7f77c549b)
+- [In-Class Exercise #6: Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/SolutionsAM207Fall202106montecarlointegration-Duplicate-ab2882e7-6e30-48e5-8fbd-691296db9119/%2FIn-Class%20Exercises%2F06_monte_carlo_integration.ipynb)
 - [In-Class Exercise #7: Introduction to MCMC](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202107introductiontoMCMC-b3968c70-8f60-44bc-b63f-6176dafc3eb2)
+- [In-Class Exercise #7: Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/SolutionsAM207Fall202107introductiontoMCMC-Duplicate-d941597a-8d5b-4518-9328-f03f235b5c52/%2FIn-Class%20Exercises%2F07_introduction_to_MCMC.ipynb)
 - [Homework #3](https://github.com/onefishy/am207/blob/master/HW/AM207_HW3.ipynb)
+- [Homework #3 Solutions](https://github.com/onefishy/am207/blob/master/HW/AM207_HW3_Solutions.ipynb)
 
 ### Reading
 **Applications and Broader Impact**
