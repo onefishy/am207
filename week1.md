@@ -9,7 +9,9 @@
 
 ### Activities
 - [In-Class Exercise #1: Introduction to Linear Regression](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202101linearregression-6983356b-d34c-4113-9402-b8412078e537/%2FIn-Class%20Exercises%2F01_linear_regression.ipynb)
+- [In-Class Exercise #1: Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/SolutionsAM207Fall202101linearregression-7a7b4847-c74d-4ae1-b6dd-b5068de24d93/%2FIn-Class%20Exercises%2F01_linear_regression.ipynb)
 - [Homework #0](https://github.com/onefishy/am207/blob/master/HW/AM207_HW0.ipynb)
+- [Homework #0 Solutions](https://github.com/onefishy/am207/blob/master/HW/AM207_HW0_Solutions.ipynb)
 
 ### Reading
 **Preparatory Readings:**
