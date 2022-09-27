@@ -12,6 +12,7 @@
 ### Activities
 - [In-Class Exercise #18: Automatic Differentiation](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202118-automatic-differentiation-02e90b26-2478-4d55-a642-26ac3ab16d97/%2FIn-Class%20Exercises%2F18_automatic_differentiation.ipynb)
 - [In-Class Exercise #19: Evaluating and Comparing Approximate Inference](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202119-Evaluating-Approximate-Inference-a8c76561-8d32-464a-a6eb-6c3c265af434/%2FIn-Class%20Exercises%2F19_Evaluating_Approximate_Inference.ipynb)
+- [In-Class Exercise #19: Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/SolutionsAM207Fall202119-Evaluating-Approximate-Inference-8f2861f7-944a-4d1c-936d-dd4937fb9904/%2FIn-Class%20Exercises%2F19_Evaluating_Approximate_Inference.ipynb)
 
 ### Reading
 Applications and Broader Impact:
