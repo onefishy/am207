@@ -12,8 +12,11 @@
 
 ### Activities
 - [In-Class Exercise #2: Maximum Likelihood Estimation](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202102maximumlikelihoodestimation-dd051408-c249-4be2-ac22-8e6f98fe40a6)
+- [In-Class Exercise #2: Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/SolutionsAM207Fall202102maximumlikelihoodestimation-07642111-96a2-4d4e-b5f6-50e5ef503882/%2FIn-Class%20Exercises%2F02_maximum_likelihood_estimation.ipynb)
 - [In-Class Exercise #3: The Beta-Binomial Model](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202103betabinomialmodel-43c07f29-502c-4c81-b3b0-6bb2ac88b8db)
+- [In-Class Exercise #3: Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/SolutionsAM207Fall202103betabinomialmodel-13f9b81d-b475-4059-9a42-635da2d2740a/%2FIn-Class%20Exercises%2F03_beta_binomial_model.ipynb)
 - [Homework #1](https://github.com/onefishy/am207/blob/master/HW/AM207_HW1.ipynb)
+- [Homework #1 Solutions](https://github.com/onefishy/am207/blob/master/HW/AM207_HW1_Solutions.ipynb)
 
 ### Reading
 **Applications and Broader Impact**
