@@ -13,7 +13,9 @@
 ### Activities
 - [In-Class Exercise #4: Bayesian versus Frequentist Inference](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202104bayesianversusfrequentist-Duplicate-02ae759b-e78c-457b-8c50-a5fc8a08f8cd)
 - [In-Class Exercise #5: Introduction to Sampling](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202105introductiontosampling-58c3d190-c345-434e-9eb5-4284164ead61)
+- [In-Class Exercise #5: Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/SolutionsAM207Fall202105introductiontosampling-Duplicate-2be1d1d2-e3b9-4178-a0ed-e4e75b8954cb/%2FIn-Class%20Exercises%2F05_introduction_to_sampling.ipynb)
 - [Homework #2](https://github.com/onefishy/am207/blob/master/HW/AM207_HW2.ipynb)
+- [Homework #2 Solutions](https://github.com/onefishy/am207/blob/master/HW/AM207_HW2_Solutions.ipynb)
 
 ### Reading
 **Applications and Broader Impact**
