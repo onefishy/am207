@@ -12,8 +12,11 @@
 
 ### Activities
 - [In-Class Exercise #14: Introduction to HMC](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202114-intro-to-HMC-396cdce2-cf3b-4301-ac00-46aa440194aa)
+- [In-Class Exercise #14 Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/SolutionsAM207Fall202114-intro-to-HMC-9ed7f3fd-9885-4960-94d4-6d3c040d7463/%2FIn-Class%20Exercises%2F14_intro_to_HMC.ipynb)
 - [In-Class Exercise #15: Applying HMC to Bayesian Logistic Regression Models](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202115-applying-HMC-27230922-60f9-4505-b198-22e4f764cfab)
+- [In-Class Exercise #15: Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/SolutionsAM207Fall202115-applying-HMC-e349c537-8295-436b-a65e-46defbc9f8c8/%2FIn-Class%20Exercises%2F15_applying_HMC.ipynb)
 - [Homework #7](https://github.com/onefishy/am207/blob/master/HW/AM207_HW7.ipynb)
+- [Homework #7 Solutions](https://github.com/onefishy/am207/blob/master/HW/AM207_HW7.ipynb)
 
 ### Reading
 
