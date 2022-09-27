@@ -11,8 +11,10 @@
 
 ### Activities
 - [In-Class Exercise #8: Metropolis-Hastings and Gibbs Sampling](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202108-MH-and-Gibbs-ffeba275-6f2a-417c-be99-0eb0d0b27bfb)
+- [In-Class Exercise #8: Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/Solutions-AM207Fall202108-MH-and-Gibbs-e33b8b42-caf0-494e-b2d1-a48a7ce8862c/%2FIn-Class%20Exercises%2F08_MH_and_Gibbs.ipynb)
 - [In-Class Exercise #9: Expectation Maximization](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202109-expectation-maximization-97a1d7fd-43fc-4570-810f-b2b90ef480be)
 - [Homework #4](https://github.com/onefishy/am207/blob/master/HW/AM207_HW4.ipynb)
+- [Homework #4 Solutions](https://github.com/onefishy/am207/blob/master/HW/AM207_HW4_Solutions.ipynb)
 
 ### Reading
 
