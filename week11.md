@@ -10,7 +10,9 @@
 
 ### Activities
 - [In-Class Exercise #20: Understanding VAEs](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202120-Understandign-VAEs-53da2dc6-d4fa-4d39-b875-7ffa2a83d267)
+- [In-Class Exercise #20: Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/SolutionsAM207Fall202120-Understandign-VAEs-7f1d2941-2777-4373-bc18-5970cfc04b75/%2FIn-Class%20Exercises%2F20_Understandign_VAEs.ipynb)
 - [In-Class Exercise #21: Implementing VAEs](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/AM207Fall202121-Implementing-VAEs-a740d4f4-8cb8-4929-96da-13b7315870ce)
+- [In-Class Exercise #21: Solutions](https://deepnote.com/workspace/weiwei-pan-2902decb-902f-40cc-9fa6-af2e3f31f15b/project/SolutionsAM207Fall202121-Implementing-VAEs-22eb9a13-603e-4d25-84c6-06d9429386a0/%2FIn-Class%20Exercises%2F21_Implementing_VAEs.ipynb)
 
 ### Reading
 
